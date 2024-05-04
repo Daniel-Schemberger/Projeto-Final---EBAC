@@ -9,6 +9,7 @@ Este repositório foi criado para armazenar os notebooks desenvolvidos no últim
 * Aplicação:
 
   - '*app_ML.py*' - Aplicação de Machine Learning usando Pycaret e Streamlit.
+  - link da aplicação: https://app-machine-learning.onrender.com
     
 
 https://github.com/Daniel-Schemberger/Projeto-Final---EBAC/assets/107373509/c0f016d5-3511-43d7-9111-f6c61380f566
